@@ -4,8 +4,6 @@ def par(numero):
 	else:
 		return False
 
-
-
 print(par(2))
 print(par(3))
 print(par(0))
