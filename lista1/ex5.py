@@ -5,6 +5,6 @@ numeros = [54, 82, 65, 98212, 51212, 413, 43, 67, 94]
 soma = 0
 
 for elemento in numeros:
-	soma += elemento
+	soma = soma + elemento
 
 print(soma)
